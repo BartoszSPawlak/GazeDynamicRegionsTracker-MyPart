@@ -1,0 +1,820 @@
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\appsettings.Development.json
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\appsettings.json
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\DynamicRegionTracker.staticwebassets.runtime.json
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\DynamicRegionTracker.exe
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\DynamicRegionTracker.deps.json
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\DynamicRegionTracker.runtimeconfig.json
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\DynamicRegionTracker.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\DynamicRegionTracker.pdb
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\obj\Debug\net6.0\DynamicRegionTracker.csproj.AssemblyReference.cache
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\obj\Debug\net6.0\DynamicRegionTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\obj\Debug\net6.0\DynamicRegionTracker.AssemblyInfoInputs.cache
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\obj\Debug\net6.0\DynamicRegionTracker.AssemblyInfo.cs
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\obj\Debug\net6.0\DynamicRegionTracker.csproj.CoreCompileInputs.cache
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\obj\Debug\net6.0\DynamicRegionTracker.MvcApplicationPartsAssemblyInfo.cache
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\obj\Debug\net6.0\DynamicRegionTracker.RazorAssemblyInfo.cache
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\obj\Debug\net6.0\DynamicRegionTracker.RazorAssemblyInfo.cs
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\obj\Debug\net6.0\staticwebassets.build.json
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\obj\Debug\net6.0\staticwebassets.development.json
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\obj\Debug\net6.0\scopedcss\bundle\DynamicRegionTracker.styles.css
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\obj\Debug\net6.0\scopedcss\projectbundle\DynamicRegionTracker.bundle.scp.css
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\obj\Debug\net6.0\DynamicRegionTracker.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\obj\Debug\net6.0\refint\DynamicRegionTracker.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\obj\Debug\net6.0\DynamicRegionTracker.pdb
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\obj\Debug\net6.0\DynamicRegionTracker.genruntimeconfig.cache
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\obj\Debug\net6.0\ref\DynamicRegionTracker.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Humanizer.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\MessagePack.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\NuGet.Common.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\obj\Debug\net6.0\DynamicRegionTracker.csproj.CopyComplete
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Emgu.CV.Platform.NetStandard.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Emgu.CV.Bitmap.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\GameLab.Eyetracking.Data.DynamicRegions.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\JacekMatulewski.Csv.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\JacekMatulewski.Geometry.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\TldSharpWrapper.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Tracking.Helpers.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Tracking.Model.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Tracking.Services.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Platform.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Tracking.Services.pdb
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\JacekMatulewski.Csv.pdb
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\GameLab.Eyetracking.Data.DynamicRegions.pdb
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\JacekMatulewski.Geometry.pdb
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\TldSharpWrapper.pdb
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Tracking.Helpers.pdb
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Tracking.Model.pdb
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\runtimes\win-x64\native\cvextern.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\runtimes\win-x64\native\opencv_videoio_ffmpeg455_64.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\runtimes\win-x86\native\cvextern.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\runtimes\win-x86\native\opencv_videoio_ffmpeg455.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\runtimes\win-x64\native\concrt140.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140_1.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140_2.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\runtimes\win-x86\native\concrt140.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140_1.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140_2.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\runtimes\win-x86\native\vcruntime140.dll
+C:\Praca Własna\DynamicRegionTracker\DynamicRegionTracker\obj\Debug\net6.0\DynamicRegionTracker.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\appsettings.json
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\DynamicRegionTracker.staticwebassets.runtime.json
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\DynamicRegionTracker.exe
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\DynamicRegionTracker.deps.json
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\DynamicRegionTracker.runtimeconfig.json
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\DynamicRegionTracker.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\DynamicRegionTracker.pdb
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Emgu.CV.Platform.NetStandard.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Emgu.CV.Bitmap.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Platform.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\runtimes\win-x64\native\cvextern.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\runtimes\win-x64\native\opencv_videoio_ffmpeg455_64.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\runtimes\win-x86\native\cvextern.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\runtimes\win-x86\native\opencv_videoio_ffmpeg455.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\runtimes\win-x64\native\concrt140.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140_1.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140_2.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\runtimes\win-x86\native\concrt140.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140_1.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140_2.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\GameLab.Eyetracking.Data.DynamicRegions.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\JacekMatulewski.Csv.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\JacekMatulewski.Geometry.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\TldSharpWrapper.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Tracking.Helpers.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Tracking.Model.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Tracking.Services.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Tracking.Services.pdb
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\JacekMatulewski.Csv.pdb
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\GameLab.Eyetracking.Data.DynamicRegions.pdb
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\JacekMatulewski.Geometry.pdb
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\TldSharpWrapper.pdb
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Tracking.Helpers.pdb
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Tracking.Model.pdb
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\obj\Debug\net6.0\DynamicRegionTracker.csproj.AssemblyReference.cache
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\obj\Debug\net6.0\DynamicRegionTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\obj\Debug\net6.0\DynamicRegionTracker.AssemblyInfoInputs.cache
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\obj\Debug\net6.0\DynamicRegionTracker.AssemblyInfo.cs
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\obj\Debug\net6.0\DynamicRegionTracker.csproj.CoreCompileInputs.cache
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\obj\Debug\net6.0\DynamicRegionTracker.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\obj\Debug\net6.0\DynamicRegionTracker.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\obj\Debug\net6.0\DynamicRegionTracker.RazorAssemblyInfo.cache
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\obj\Debug\net6.0\DynamicRegionTracker.RazorAssemblyInfo.cs
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\obj\Debug\net6.0\scopedcss\bundle\DynamicRegionTracker.styles.css
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\obj\Debug\net6.0\scopedcss\projectbundle\DynamicRegionTracker.bundle.scp.css
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\obj\Debug\net6.0\DynamicRegionTracker.csproj.CopyComplete
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\obj\Debug\net6.0\DynamicRegionTracker.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\obj\Debug\net6.0\refint\DynamicRegionTracker.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\obj\Debug\net6.0\DynamicRegionTracker.pdb
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\obj\Debug\net6.0\DynamicRegionTracker.genruntimeconfig.cache
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\obj\Debug\net6.0\ref\DynamicRegionTracker.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\web.config
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\.filenesting.json
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ListOfRectangles.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ListOfRectangles.pdb
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\obj\Debug\net6.0\DynamicRegionTracker.csproj.AssemblyReference.cache
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\obj\Debug\net6.0\DynamicRegionTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\obj\Debug\net6.0\DynamicRegionTracker.AssemblyInfoInputs.cache
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\obj\Debug\net6.0\DynamicRegionTracker.AssemblyInfo.cs
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\obj\Debug\net6.0\DynamicRegionTracker.csproj.CoreCompileInputs.cache
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\obj\Debug\net6.0\DynamicRegionTracker.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\obj\Debug\net6.0\DynamicRegionTracker.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\obj\Debug\net6.0\DynamicRegionTracker.RazorAssemblyInfo.cache
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\obj\Debug\net6.0\DynamicRegionTracker.RazorAssemblyInfo.cs
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\obj\Debug\net6.0\DynamicRegionTracker.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\obj\Debug\net6.0\refint\DynamicRegionTracker.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\obj\Debug\net6.0\DynamicRegionTracker.pdb
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\web.config
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\.filenesting.json
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\appsettings.json
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\DynamicRegionTracker.staticwebassets.runtime.json
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\DynamicRegionTracker.exe
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\DynamicRegionTracker.deps.json
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\DynamicRegionTracker.runtimeconfig.json
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\DynamicRegionTracker.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\DynamicRegionTracker.pdb
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Emgu.CV.Platform.NetStandard.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Emgu.CV.Bitmap.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ListOfRectangles.dll
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\bin\Debug\net6.0\ListOfRectangles.pdb
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\obj\Debug\net6.0\scopedcss\bundle\DynamicRegionTracker.styles.css
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\obj\Debug\net6.0\scopedcss\projectbundle\DynamicRegionTracker.bundle.scp.css
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\obj\Debug\net6.0\DynamicRegionTracker.csproj.CopyComplete
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\obj\Debug\net6.0\DynamicRegionTracker.genruntimeconfig.cache
+C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\obj\Debug\net6.0\ref\DynamicRegionTracker.dll

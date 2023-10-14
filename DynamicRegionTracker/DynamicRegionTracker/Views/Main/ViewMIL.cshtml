@@ -1,0 +1,53 @@
+﻿@model DynamicRegionsTracker.Models.ModelMIL
+
+@{
+    ViewData["Title"] = "ViewMIL";
+}
+
+<hr />
+<div class="row" style="width: 130%;">
+    @*<div class="col-md-4">*@
+        <form asp-action="ViewMIL">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div style="width: 40%; margin-right:5%; float: left;">
+                <div class="form-group">
+                    <label asp-for="FeatureSetNumFeatures" class="control-label"></label>
+                    <input id="FeatureSetNumFeatures" type="number" min="0" max="1000" step="1" value="10" asp-for="FeatureSetNumFeatures" class="formStyle oneInput" />
+                    <span asp-validation-for="FeatureSetNumFeatures" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="SamplerSearchWinSize" class="formLabel"></label>
+                    <input id="SamplerSearchWinSize" type="number" min="0" max="1000" step="1" value="10" asp-for="SamplerSearchWinSize" class="formStyle oneInput" />
+                    <span asp-validation-for="SamplerSearchWinSize" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="SamplerTrackMaxPosNum" class="formLabel"></label>
+                    <input id="SamplerTrackMaxPosNum" type="number" min="0" max="1000" step="1" value="10" asp-for="SamplerTrackMaxPosNum" class="formStyle oneInput" />
+                    <span asp-validation-for="SamplerTrackMaxPosNum" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="SamplerTrackMaxNegNum" class="formLabel"></label>
+                    <input id="SamplerTrackMaxNegNum" type="number" min="0" max="1000" step="1" value="10" asp-for="SamplerTrackMaxNegNum" class="formStyle oneInput" />
+                    <span asp-validation-for="SamplerTrackMaxNegNum" class="text-danger"></span>
+                </div>
+            </div>
+            <div style="width: 40%; margin-right:5%; float: left;">
+                <div class="form-group">
+                    <label asp-for="samplerInitMaxNegNum" class="control-label"></label>
+                    <input type="number" id="samplerInitMaxNegNum" min="0" max="1000" step="1" value="10" asp-for="samplerInitMaxNegNum" class="formStyle oneInput" />
+                    <span asp-validation-for="samplerInitMaxNegNum" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="SamplerTrackInRadius" class="formLabel"></label>
+                    <input id="SamplerTrackInRadius" type="number" min="0" max="1000" step="1" value="10" asp-for="SamplerTrackInRadius" class="formStyle oneInput" />
+                    <span asp-validation-for="SamplerTrackInRadius" class="text-danger"></span>
+                </div>
+                 <div class="form-group">
+                    <label asp-for="SamplerInitInRadius" class="formLabel"></label>
+                    <input id="SamplerInitInRadius" type="number" min="0" max="1000" step="1" value="10" asp-for="SamplerInitInRadius" class="formStyle oneInput" />
+                    <span asp-validation-for="SamplerInitInRadius" class="text-danger"></span>
+                </div>
+            </div>
+        </form>
+    @*</div>*@
+</div>

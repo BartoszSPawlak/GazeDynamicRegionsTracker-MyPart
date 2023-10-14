@@ -1,0 +1,126 @@
+﻿@model DynamicRegionsTracker.Models.ModelKCF
+
+@{
+    ViewData["Title"] = "ViewKCF";
+}
+
+<hr />
+<div class="row" style="width: 130%;">
+    @*<div class="col-md-4">*@
+        <form asp-action="ViewKCF">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div style="width: 40%; margin-right:5%; float: left;">
+                <div class="form-group">
+                    <label asp-for="Threshold" class="control-label"></label>
+                    <br/>
+                    <input id="Threshold" type="number" min="0" max="1" step="0.00001" value="0.500" asp-for="Threshold" class="formStyle oneInput"/>
+                    <span asp-validation-for="Threshold" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="OutputSigmaFactor" class="formLabel"></label>
+                    </br>
+                    <input id="OutputSigmaFactor" type="number" min="0" max="1" step="0.00001" value="0.0625" asp-for="OutputSigmaFactor" class="formStyle oneInput"/>
+                    <span asp-validation-for="OutputSigmaFactor" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Sigma" class="formLabel"></label>
+                    </br>
+                    <input id="Sigma" type="number" min="0" max="1" step="0.00001" value="0.200" asp-for="Sigma" class="formStyle oneInput"/>
+                    <span asp-validation-for="Sigma" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="PcaLearningRate" class="formLabel"></label>
+                    </br>
+                    <input id="PcaLearningRate" type="number" min="0" max="1" step="0.00001" value="0.150" asp-for="PcaLearningRate" class="formStyle oneInput"/>
+                    <span asp-validation-for="PcaLearningRate" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Lambda" class="formLabel"></label>
+                    </br>
+                    <input id="Lambda" type="number" min="0" max="1" step="0.00001" value="0.010" asp-for="Lambda" class="formStyle oneInput"/>
+                    <span asp-validation-for="Lambda" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="MaxPatchSize" class="formLabel"></label>
+                    </br>
+                    <input id="MaxPatchSize" type="number" min="0" max="1000000" step="1" value="6400" asp-for="MaxPatchSize" class="formStyle oneInput"/>
+                    <span asp-validation-for="MaxPatchSize" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div style="width: 40%; float: left;">
+                <div class="form-group">
+                    <label asp-for="InterpFactor" class="control-label"></label>
+                    </br>
+                    <input id="InterpFactor" type="number" min="0" max="1" step="0.00001" value="0.075" asp-for="InterpFactor" class="formStyle oneInput"/>
+                    <span asp-validation-for="InterpFactor" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="CompressedSize" class="formLabel"></label>
+                    </br>
+                    <input id="CompressedSize" type="number" min="0" max="100" step="1" value="2" asp-for="CompressedSize" class="formStyle oneInput"/>
+                    <span asp-validation-for="CompressedSize" class="text-danger"></span>
+                </div>
+
+                <div class="formCheckboxAndLabel">
+                    <!--<label for="CompressFeature" class="control-label">CompressFeature</label>-->
+                    <label asp-for="CompressFeature">CompressFeature</label>
+                    <div class="formCheckbox" >
+                        <input id="CompressFeature" type="checkbox" name="CompressFeature" asp-for="CompressFeature"  checked/>
+                    </div>
+                    <span asp-validation-for="CompressFeature" class="text-danger"></span>
+                </div>
+                <div class="formCheckboxAndLabel">
+                    <label asp-for="SplitCoeff">SplitCoeff</label>
+                    <div class="formCheckbox">
+                        <input id="SplitCoeff" type="checkbox" name="SplitCoeff" asp-for="SplitCoeff" checked/>
+                    </div>
+                    <span asp-validation-for="SplitCoeff" class="text-danger"></span>
+                </div>
+                <div class="formCheckboxAndLabel">
+                    <label asp-for="WrapKernel">WrapKernel</label>
+                    <div class="formCheckbox">
+                        <input id="WrapKernel" type="checkbox" name="WrapKernel" asp-for="WrapKernel"/>
+                    </div>
+                    <span asp-validation-for="WrapKernel" class="text-danger"></span>
+                </div>
+                <div class="formCheckboxAndLabel">
+                    <label asp-for="ReSize">ReSize</label>
+                    <div class="formCheckbox">
+                        <input class="ReSize" id="ReSize" type="checkbox" name="ReSize" asp-for="ReSize" checked/>
+                    </div>
+                    <span asp-validation-for="ReSize" class="text-danger"></span>
+                </div>
+            </div>
+             <div style="width: 40%; float: left;">
+                 <div class="form-group" >
+                    <label asp-for="PescPca" class="formLabel"></label>
+                    </br>
+                    @Html.DropDownListFor(model => model.PescPca, new List<SelectListItem> 
+                    { 
+                        new SelectListItem{Text="Gray", Value="Gray"},
+                        new SelectListItem{Text="CN", Value="CN",Selected=true},
+                        new SelectListItem{Text="Custom", Value="Custom"}
+                    }
+                    , new { id = "PescPca", @class = "formStyle oneInput" })
+                    <span asp-validation-for="PescPca" class="text-danger"></span>
+                </div>
+                <div class="form-group" >
+                    <label asp-for="DescNpca" class="formLabel"></label>
+                    </br>
+                    @Html.DropDownListFor(model => model.DescNpca, new SelectList(ViewBag.listForDescNpca), new { id = "DescNpca", @class = "formStyle oneInput"  })
+                    <span asp-validation-for="DescNpca" class="text-danger"></span>
+                </div>
+             </div>
+            @*<div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>*@
+        </form>
+    @*</div>*@
+</div>
+
+@*<div>
+    <a asp-action="Index">Back to List</a>
+</div>*@
+

@@ -1,0 +1,149 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Bartosz\\Desktop\\magisterka z moją częścią\\DynamicRegionTracker\\DynamicRegionTracker\\DynamicRegionTracker.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Bartosz\\Desktop\\magisterka z moją częścią\\DynamicRegionTracker\\DynamicRegionTracker\\DynamicRegionTracker.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Bartosz\\Desktop\\magisterka z moją częścią\\DynamicRegionTracker\\DynamicRegionTracker\\DynamicRegionTracker.csproj",
+        "projectName": "DynamicRegionTracker",
+        "projectPath": "C:\\Users\\Bartosz\\Desktop\\magisterka z moją częścią\\DynamicRegionTracker\\DynamicRegionTracker\\DynamicRegionTracker.csproj",
+        "packagesPath": "C:\\Users\\Bartosz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bartosz\\Desktop\\magisterka z moją częścią\\DynamicRegionTracker\\DynamicRegionTracker\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Bartosz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Bartosz\\Desktop\\magisterka z moją częścią\\DynamicRegionTracker\\ListOfRectangles\\ListOfRectangles.csproj": {
+                "projectPath": "C:\\Users\\Bartosz\\Desktop\\magisterka z moją częścią\\DynamicRegionTracker\\ListOfRectangles\\ListOfRectangles.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Emgu.CV": {
+              "target": "Package",
+              "version": "[4.5.5.4823, )"
+            },
+            "Emgu.CV.Bitmap": {
+              "target": "Package",
+              "version": "[4.5.5.4823, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Bartosz\\Desktop\\magisterka z moją częścią\\DynamicRegionTracker\\ListOfRectangles\\ListOfRectangles.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Bartosz\\Desktop\\magisterka z moją częścią\\DynamicRegionTracker\\ListOfRectangles\\ListOfRectangles.csproj",
+        "projectName": "ListOfRectangles",
+        "projectPath": "C:\\Users\\Bartosz\\Desktop\\magisterka z moją częścią\\DynamicRegionTracker\\ListOfRectangles\\ListOfRectangles.csproj",
+        "packagesPath": "C:\\Users\\Bartosz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bartosz\\Desktop\\magisterka z moją częścią\\DynamicRegionTracker\\ListOfRectangles\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Bartosz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,156 @@
+﻿@model DynamicRegionsTracker.Models.ModelCSRT
+
+@{
+    ViewData["Title"] = "ViewCSRT";
+}
+
+<hr />
+<div class="row" style="width: 130%;">
+    @*<div class="col-md-4">*@
+    <form asp-action="ViewCSRT">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+        <div>
+        <div style="width: 40%; margin-right:5%; float: left;">
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input id="useColorNames" class="form-check-input" asp-for="userColorNames" checked /> @Html.DisplayNameFor(model => model.userColorNames)
+                </label>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input id="useChannelWeights" class="form-check-input" asp-for="userChanWeight" checked /> @Html.DisplayNameFor(model => model.userChanWeight)
+                </label>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input id="useRgb" class="form-check-input" asp-for="userRgb" /> @Html.DisplayNameFor(model => model.userRgb)
+                </label>
+            </div>
+
+        </div>
+        <div style="width: 40%; margin-right:5%; float: left;">
+                    <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input id="useHog" class="form-check-input" asp-for="userHog" checked /> @Html.DisplayNameFor(model => model.userHog)
+                </label>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input id="useSegmentation" class="form-check-input" asp-for="userSegmentation" checked /> @Html.DisplayNameFor(model => model.userSegmentation)
+                </label>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input id="useGray" type="checkbox" value="" class="form-check-input" asp-for="userGray" checked /> @Html.DisplayNameFor(model => model.userGray)
+                </label>
+            </div>
+            </div>
+            </div>
+           <div>
+        <div style="width: 40%; margin-right:5%; float: left;">
+            <div class="form-group">
+                <label asp-for="kaiserAlpha" class="control-label"></label>
+                <input id="kaiserAlpha" type="number" min="0.00" max="100.0" step="0.01" value="3.75" asp-for="kaiserAlpha" class="formStyle oneInput" />
+                @*<input type="number" min="0" max="1" step="0.00001" value="0.010" />*@
+                <span asp-validation-for="kaiserAlpha" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="chebAttenuation" class="formLabel"></label>
+                <input id="chebAttenuation" type="number" min="0.00" max="100.0" step="0.01" value="45.00" asp-for="chebAttenuation" class="formStyle oneInput" />
+                <span asp-validation-for="chebAttenuation" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="templateSize" class="formLabel"></label>
+                <input id="templateSize" type="number" min="0.00" max="1000.0" step="0.01" value="200.00" asp-for="templateSize" class="formStyle oneInput" />
+                <span asp-validation-for="templateSize" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="gslSigma" class="formLabel"></label>
+                <input id="gslSigma" type="number" min="0.00" max="100.0" step="0.01" value="1.00" asp-for="gslSigma" class="formStyle oneInput" />
+                <span asp-validation-for="gslSigma" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="hogOrientations" class="formLabel"></label>
+                <input id="hogOrientations" type="number" min="0.00" max="100.0" step="0.01" value="9.00" asp-for="hogOrientations" class="formStyle oneInput" />
+                <span asp-validation-for="hogOrientations" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="hogClip" class="formLabel"></label>
+                <input id="hogClip" type="number" min="0.00" max="100.0" step="0.01" value="0.20" asp-for="hogClip" class="formStyle oneInput" />
+                <span asp-validation-for="hogClip" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="padding" class="formLabel"></label>
+                <input id="padding" type="number" min="0.00" max="100.0" step="0.01" value="3.00" asp-for="padding" class="formStyle oneInput" />
+                <span asp-validation-for="padding" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="filterLr" class="formLabel"></label>
+                <input id="filterLr" type="number" min="0.00" max="100.0" step="0.01" value="0.02" asp-for="filterLr" class="formStyle oneInput" />
+                <span asp-validation-for="filterLr" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="weightLr" class="formLabel"></label>
+                <input id="weightsLr" type="number" min="0.00" max="100.0" step="0.01" value="0.02" asp-for="weightLr" class="formStyle oneInput" />
+                <span asp-validation-for="weightLr" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="numHogChannelsUsed" class="formLabel"></label>
+                <input type="number" min="0" max="100" step="1" value="18" asp-for="numHogChannelsUsed" class="formStyle oneInput" />
+                <span asp-validation-for="numHogChannelsUsed" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div style="width: 40%; float: left;">
+            <div class="form-group">
+                <label asp-for="admmIterations" class="control-label"></label>
+                <input id="admmIterations" type="number" min="0" max="100" step="1" value="4" asp-for="admmIterations" class="formStyle oneInput" />
+                <span asp-validation-for="admmIterations" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="histogramLr" class="formLabel"></label>
+                <input id="histogramLr" type="number" min="0.00" max="100.0" step="0.01" value="0.04" asp-for="histogramLr" class="formStyle oneInput" />
+                <span asp-validation-for="histogramLr" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="backgroundRatio" class="formLabel"></label>
+                <input id="backgroundRatio" type="number" min="0" max="100" step="1" value="2" asp-for="backgroundRatio" class="formStyle oneInput" />
+                <span asp-validation-for="backgroundRatio" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="numberOfScales" class="formLabel"></label>
+                <input id="numberOfScales" type="number" min="0" max="100" step="1" value="3" asp-for="numberOfScales" class="formStyle oneInput" />
+                <span asp-validation-for="numberOfScales" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="scaleSigmaFactor" class="formLabel"></label>
+                <input id="scaleSigmaFactor" type="number" min="0.00" max="100.0" step="0.01" value="0.25" asp-for="scaleSigmaFactor" class="formStyle oneInput" />
+                <span asp-validation-for="scaleSigmaFactor" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="scaleModelMaxArea" class="formLabel"></label>
+                <input id="scaleModelMaxArea" type="number" min="0.00" max="1000.0" step="0.01" value="512.00" asp-for="scaleModelMaxArea" class="formStyle oneInput" />
+                <span asp-validation-for="scaleModelMaxArea" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="scaleLr" class="formLabel"></label>
+                <input id="scaleLr" type="number" min="0.00" max="100.0" step="0.001" value="0.025" asp-for="scaleLr" class="formStyle oneInput" />
+                <span asp-validation-for="scaleLr" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="scaleStep" class="formLabel"></label>
+                <input id="scaleStep" type="number" min="0.00" max="100.0" step="0.01" value="1.02" asp-for="scaleStep" class="formStyle oneInput" />
+                <span asp-validation-for="scaleStep" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="histogramBins" class="formLabel"></label>
+                <input id="histogramBins" type="number" min="0" max="100" step="1" value="16" asp-for="histogramBins" class="formStyle oneInput" />
+                <span asp-validation-for="histogramBins" class="text-danger"></span>
+            </div>
+        </div>
+        </div>
+    </form>
+    @*</div>*@
+</div>
+

@@ -1,0 +1,12 @@
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\ListOfRectangles\bin\Debug\net6.0\ListOfRectangles.deps.json
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\ListOfRectangles\bin\Debug\net6.0\ListOfRectangles.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\ListOfRectangles\bin\Debug\net6.0\ListOfRectangles.pdb
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\ListOfRectangles\obj\Debug\net6.0\ListOfRectangles.csproj.AssemblyReference.cache
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\ListOfRectangles\obj\Debug\net6.0\ListOfRectangles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\ListOfRectangles\obj\Debug\net6.0\ListOfRectangles.AssemblyInfoInputs.cache
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\ListOfRectangles\obj\Debug\net6.0\ListOfRectangles.AssemblyInfo.cs
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\ListOfRectangles\obj\Debug\net6.0\ListOfRectangles.csproj.CoreCompileInputs.cache
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\ListOfRectangles\obj\Debug\net6.0\ListOfRectangles.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\ListOfRectangles\obj\Debug\net6.0\refint\ListOfRectangles.dll
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\ListOfRectangles\obj\Debug\net6.0\ListOfRectangles.pdb
+C:\Users\Bartosz\Documents\GitHub\GazeDynamicRegionsTracker\DynamicRegionTracker\ListOfRectangles\obj\Debug\net6.0\ref\ListOfRectangles.dll

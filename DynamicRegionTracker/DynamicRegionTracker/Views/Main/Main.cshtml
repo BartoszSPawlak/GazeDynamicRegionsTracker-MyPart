@@ -1,0 +1,215 @@
+﻿@using System.Drawing
+@using DynamicRegionTracker.Controllers
+@model DynamicRegionsTracker.Models.MainModel;
+
+@{
+    ViewData["Title"] = "Gaze Dynamic Regions Tracker";
+}
+
+<h1>Gaze Dynamic Regions Tracker</h1>
+
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/p5@1.4.1/lib/p5.js"></script>
+@*<script src="C:\UMK\Praca magisterska\DynamicRegionsTracker\DynamicRegionsTracker\src\sketch.js"></script>*@
+<script src="https://unpkg.com/vue@3"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.5.13/vue.js"></script>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        @*<form asp-action="Main">*@
+            @*<div asp-validation-summary="ModelOnly" class="text-danger"></div>*@
+            @*<div class="form-group" style="width: 140%; float: left;">*@
+                <script type="text/javascript" src=~/js/serwerComunication.js></script>
+
+
+
+                @*<div style="position: relative; left: 450px; top: 2px;">*@
+                <div style="position: relative; left: 460px; top: 2px;">
+
+                <div id="simplePlayer">
+                    @*<img id="pilt" v-if="!isHidden" v-bind:src="src[z]">*@
+                    @*<img src="@ViewBag.frameImage" src="~/data/00001.jpg"/>*@
+                    @*<img id="image" width="320" height="180" style="display: none;"/>*@
+                    @*<img id="image" width="480" height="270" style="display: none;"/>*@
+                    @*<img id="image" width="320" height="180" style="display: none;"/>*@
+                    <img id="image" width="900" height="500" style="display: none;"/>
+                    @*<img id="image" style="display: none;"/>*@
+                    @*<img id="image" style="display: none;"/>*@
+
+                    @*<video id="video" width="480" height="270" style="display: none;">*@
+                    <video id="video" width="900" height="500" style="display: none;">
+                    @*<video id="video" style="display: none;">*@
+                        <source id="srcOfVideo"/>
+                    </video>
+                    @*<video id=videoplayer src="@Url.Content("~/data/01_david - video.mp4")" controls="true" width="480" height="270" loop/>*@
+                </div>
+            </div>
+
+                                            @*<div style="position: relative; left: 460px; top: 2px;">*@
+                
+
+                
+                <h4>Summary</h4>
+                <h7>Number of objects: <span id="numberOfObjects"></span></h7>
+                <h7>Number of all frames: <span id="numberOfAllFrames"></span></h7>
+                <script>
+                    let numberOfObjects = "0";
+                    let numberOfAllFrames = "0";
+                    document.getElementById("numberOfObjects").innerHTML = numberOfObjects;
+                    document.getElementById("numberOfAllFrames").innerHTML = numberOfAllFrames;
+                </script>
+                
+                <label for="boundingBoxes">Choose a bounding box:</label>
+                <select id="boundingBoxes" name="boundingBoxes"></select>
+                <button id="removeBtn" onclick="onclickRemoveBtn()">Remove</button>
+                <hr />
+            @*</div>*@
+
+            <h4>General Settings</h4>
+                @Html.DropDownListFor(model => model.DetectionMethod, new SelectList(ViewBag.listOfDetectionMethod), new { onclick = "chooseDetectionMethod()" })
+
+                <hr/>
+            <div style="position: relative; left: 460px; top: 306px; height: 50px">
+                @using (Html.BeginForm("Main","Main", FormMethod.Post, new {@enctype = "multipart/form-data", id = "uploadFilesForm" }))
+                {
+                    <input type="file" name="fileUpload" id="fileUpload1" onchange="filesUpload(event)"  multiple/>
+                    <button id="uploadFile" type="submit" disabled>Upload file</button>
+                    <span id="sendFileInfo" style="color:red"></span>
+                }
+            </div>
+
+            <div style="position: relative; left: 860px; top: 256px;">
+                <div style=" width: 500px; display: flex; justify-content: space-between; align-items: start" >
+                
+                    <button id="addObject" type="button" onclick="onclickAddObject()"  disabled>Add object</button>
+                    <button id="confirm" type="submit" style="display: none" onclick="onclickConfirm()">Confirm</button>  
+                    <button id="addTemplate" type="button" onclick="onClickFixOrTemplate('addTemplate')"  disabled>Add template</button>
+                    <button id="confirmChooseForAddTemplate" type="submit" style="display: none" onclick="onclickConfirmChooseForAddTemplate()" >Confirm choose</button>
+                    <button id="confirmForAddTemplate" type="submit" style="display: none" onclick="onclickConfirmForAddTemplate()" >Confirm</button>
+                    <button id="start" type="submit" onclick="onclickStart()"  disabled>Start</button>
+                    <button id="stop" type="button" onclick="onClickStop()"  disabled>Stop</button>
+                    <button id="fix" type="button" onclick="onClickFixOrTemplate('fix')"  disabled>Fix</button>
+                    <button id="confirmChooseForFix" type="submit" style="display: none" onclick="onclickConfirmChooseForFix()" >Confirm choose</button>
+                    <button id="confirmForFix" type="submit" style="display: none" onclick="onclickConfirmForFix()">Confirm</button>
+                </div>
+
+                <div style=" width: 500px; display: flex; justify-content: flex-end">
+                 <select id="selectObjectToFixOrAddTemplate" style="margin-top: 10px" hidden>
+                     @*name="myddl"*@
+                    @*<option value="1" id="firstOptionToFixOrAddTemplate" hidden></option>
+                    <option value="2" id="secondOptionToFixOrAddTemplate" hidden>Two</option>
+                    <option value="3" id="thirdOptionToFixOrAddTemplate" hidden>Three</option>
+                    <option value="4" id="fourthOptionToFixOrAddTemplate" hidden>four</option>*@
+                </select>
+                </div>
+                <div id="orAlgorithmSelected"></div>
+                <div id="orBoundingBoxSelected"></div>
+            </div>
+            
+                <div style="margin-top:10px; position: relative; top: -100px;">
+
+                <div style="margin-top:10px;">
+                    <p id="demo">Algorithm</p>
+                    @Html.DropDownListFor(model => model.Algorithm, new SelectList(ViewBag.listOfAlgorithms), new { onclick = "disableProperties()" })
+                </div>
+
+                @*<script type="text/javascript" src=~/js/PropertiesOfAlgorithms.js></script>*@
+
+                <div id="0" style="display: none;">
+                    @{Html.RenderPartial("ViewKCF");}
+                </div>
+
+                <div id="1" style="display: none;">
+                    @{Html.RenderPartial("ViewBoosting");}
+                </div>
+
+                <div id="2" style="display: none;">
+                    @{Html.RenderPartial("ViewCSRT");}
+
+                </div>
+
+                <div id="3" style="display: none;">
+                    @{Html.RenderPartial("ViewGOTRUN");}
+
+                </div>
+
+                <div id="4" style="display: none;">
+                    @{Html.RenderPartial("ViewMedianFlow");}
+
+                </div>
+
+                <div id="5" style="display: none;">
+                    @{Html.RenderPartial("ViewMIL");}
+
+                </div>
+
+                <div id="6" style="display: none;">
+                    @{Html.RenderPartial("ViewMOSSE");}
+
+                </div>
+
+                <div id="7" style="display: none;">
+                    @{Html.RenderPartial("ViewMultiObjectTLD");}
+                </div>
+
+                <div id="8" style="display: none;">
+                    @{Html.RenderPartial("ViewTLD");}
+                </div>
+
+                <hr />
+
+                
+                @*@Html.TextBoxFor(m => m.Summary, new { @readonly = "readonly" })*@
+                
+
+                <span asp-validation-for="Algorithm" class="text-danger"></span>
+            
+            </div>
+          @*  <div>
+                <button id="btn1" onclick="deleteBoundingBox(0)" hidden>1</button>
+                <button id="btn2" onclick="deleteBoundingBox(1)" hidden>2</button>
+                <button id="btn3" onclick="deleteBoundingBox(2)" hidden>3</button>
+                <button id="btn4" onclick="deleteBoundingBox(3)" hidden>4</button>
+            </div>*@
+
+            @*<form>*@
+
+            @*</form>*@
+
+            @*<div style="float: left; background-color: black;">*@
+
+
+
+            
+
+
+
+            
+
+
+            <style>
+                canvas {
+                    width: 500px;
+                    height: 500px;
+                    z-index: 2;
+                    border: 1px solid;
+                    position: absolute;
+                    left: 0;
+                    top: 0;
+                }
+
+                img {
+                    z-index: 1;
+                    position: absolute;
+                    border: 2px solid black;
+                    left: 0;
+                    top: 0;
+                }
+            </style>
+            @*</div>*@
+            @*<div class="form-group">
+            <input type="submit" value="Create" class="btn btn-primary" />
+        </div>*@
+        @*</form>*@
+    </div>
+</div>

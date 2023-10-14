@@ -1,0 +1,92 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DynamicRegionTracker
+build_property.RootNamespace = DynamicRegionTracker
+build_property.ProjectDir = C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Bartosz\Desktop\magisterka z moją częścią\DynamicRegionTracker\DynamicRegionTracker
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Bartosz/Desktop/magisterka z moją częścią/DynamicRegionTracker/DynamicRegionTracker/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bartosz/Desktop/magisterka z moją częścią/DynamicRegionTracker/DynamicRegionTracker/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bartosz/Desktop/magisterka z moją częścią/DynamicRegionTracker/DynamicRegionTracker/Views/Main/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bartosz/Desktop/magisterka z moją częścią/DynamicRegionTracker/DynamicRegionTracker/Views/Main/Main.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpblxNYWluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bartosz/Desktop/magisterka z moją częścią/DynamicRegionTracker/DynamicRegionTracker/Views/Main/ViewBoosting.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpblxWaWV3Qm9vc3RpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bartosz/Desktop/magisterka z moją częścią/DynamicRegionTracker/DynamicRegionTracker/Views/Main/ViewCSRT.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpblxWaWV3Q1NSVC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bartosz/Desktop/magisterka z moją częścią/DynamicRegionTracker/DynamicRegionTracker/Views/Main/ViewGeneralSettings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpblxWaWV3R2VuZXJhbFNldHRpbmdzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bartosz/Desktop/magisterka z moją częścią/DynamicRegionTracker/DynamicRegionTracker/Views/Main/ViewGOTRUN.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpblxWaWV3R09UUlVOLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bartosz/Desktop/magisterka z moją częścią/DynamicRegionTracker/DynamicRegionTracker/Views/Main/ViewKCF.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpblxWaWV3S0NGLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bartosz/Desktop/magisterka z moją częścią/DynamicRegionTracker/DynamicRegionTracker/Views/Main/ViewMedianFlow.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpblxWaWV3TWVkaWFuRmxvdy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bartosz/Desktop/magisterka z moją częścią/DynamicRegionTracker/DynamicRegionTracker/Views/Main/ViewMIL.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpblxWaWV3TUlMLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bartosz/Desktop/magisterka z moją częścią/DynamicRegionTracker/DynamicRegionTracker/Views/Main/ViewMOSSE.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpblxWaWV3TU9TU0UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bartosz/Desktop/magisterka z moją częścią/DynamicRegionTracker/DynamicRegionTracker/Views/Main/ViewMultiObjectTLD.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpblxWaWV3TXVsdGlPYmplY3RUTEQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bartosz/Desktop/magisterka z moją częścią/DynamicRegionTracker/DynamicRegionTracker/Views/Main/ViewTLD.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpblxWaWV3VExELmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bartosz/Desktop/magisterka z moją częścią/DynamicRegionTracker/DynamicRegionTracker/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bartosz/Desktop/magisterka z moją częścią/DynamicRegionTracker/DynamicRegionTracker/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bartosz/Desktop/magisterka z moją częścią/DynamicRegionTracker/DynamicRegionTracker/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bartosz/Desktop/magisterka z moją częścią/DynamicRegionTracker/DynamicRegionTracker/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bartosz/Desktop/magisterka z moją częścią/DynamicRegionTracker/DynamicRegionTracker/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-bhz2xd7f5t

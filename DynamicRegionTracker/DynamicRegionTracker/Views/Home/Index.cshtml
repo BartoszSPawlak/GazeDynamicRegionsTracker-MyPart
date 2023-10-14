@@ -1,0 +1,24 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+
+    @using (Html.BeginForm("Index","Home", FormMethod.Post, new {@enctype = "multipart/form-data" }))
+    {
+        <span style="color:red">
+            @ViewBag.Message
+        </span>
+        <input type="file" name="firstName"  multiple/>
+        <button type="submit">Upload file</button>
+    }
+
+@*    <form method="POST">
+        <label for="firstName">Your first name</label>
+        <input type="text" id="firstName" placeholder="Your name goes here" name="firstName" />
+        <input type="submit" />
+    </form>*@
+
+</div>

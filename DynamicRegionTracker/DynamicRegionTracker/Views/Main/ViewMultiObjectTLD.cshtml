@@ -1,0 +1,39 @@
+﻿@model DynamicRegionsTracker.Models.ModelMultiObjectTLD
+
+@{
+    ViewData["Title"] = "ViewMultiObjectTLD";
+}
+
+<hr />
+<div class="row" style="width: 130%;">
+    @*<div class="col-md-4" >*@
+        <form asp-action="ViewMultiObjectTLD">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div style="width: 40%; margin-right:5%; float: left;">
+                <div class="form-group">
+                    <label asp-for="InternalWidth" class="control-label"></label>
+                    <input id="InternalWidth" type="number" min="0" max="3840" step="1" value="640" asp-for="InternalWidth" class="form-control" />
+                    <span asp-validation-for="InternalWidth" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="InternalHeight" class="control-label"></label>
+                    <input id="InternalHeight" type="number" min="0" max="2160" step="1" value="480" asp-for="InternalHeight" class="form-control" />
+                    <span asp-validation-for="InternalHeight" class="text-danger"></span>
+                </div>
+            </div>
+            <div style="width: 40%; margin-right:5%; float: left;">
+                <div class="form-group">
+                    <label asp-for="SureThreshold" class="control-label"></label>
+                    <input id="SureThreshold" type="number" min="0.000" max="1.000" step="0.001" value="0.700" asp-for="SureThreshold" class="form-control" />
+                    <span asp-validation-for="SureThreshold" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="UnsureThreshold" class="control-label"></label>
+                    <input id="UnsureThreshold" type="number" min="0.000" max="1.000" step="0.001" value="0.350" asp-for="UnsureThreshold" class="form-control" />
+                    <span asp-validation-for="UnsureThreshold" class="text-danger"></span>
+                </div>
+            </div>
+        </form>
+    @*</div>*@
+</div>
+

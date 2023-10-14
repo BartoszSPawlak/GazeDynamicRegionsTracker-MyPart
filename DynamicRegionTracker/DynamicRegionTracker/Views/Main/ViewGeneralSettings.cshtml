@@ -1,0 +1,11 @@
+﻿@model DynamicRegionsTracker.Models.ModelGeneralSettings
+
+@{
+    ViewData["Title"] = "ViewGeneralSettings";
+}
+
+<h1>General Settings</h1>
+
+<div>
+    @Html.DropDownListFor(model => model.DetectionMethod, new SelectList(ViewBag.listOfAlgorithms))
+</div>
