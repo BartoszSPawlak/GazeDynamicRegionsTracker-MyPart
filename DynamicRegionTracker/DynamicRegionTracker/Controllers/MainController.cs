@@ -367,6 +367,8 @@ namespace DynamicRegionTracker.Controllers
             sb.Append("endTime" + ";");
             sb.Append("\r\n");
 
+	    // tu do pliku .csv były dodawane wspułrzędne obszaru zainteresowania wyliczone w danej chwili 
+	
             return File(Encoding.UTF8.GetBytes(sb.ToString()), "text/csv", "ResultFile.csv");
         }
 
@@ -374,6 +376,8 @@ namespace DynamicRegionTracker.Controllers
         public IActionResult _view_Stop()
         {
             _play = false;
+
+	    //tu miało miejsce resetowanie obiektów śledzących
 
             return Json("ok");
         }
@@ -406,7 +410,10 @@ namespace DynamicRegionTracker.Controllers
         [HttpPost]
         public IActionResult DeleteObject([FromBody] JsonElement objectIndexInJson)
         {
-            var objectIndex = JsonSerializer.Deserialize<int>(objectIndexInJson.GetProperty("objectIndex"));//
+            var objectIndex = JsonSerializer.Deserialize<int>(objectIndexInJson.GetProperty("objectIndex"));
+
+     	    //oryginalnie było tu wyszukiwannie obszaru zainteresowania po indeksie.
+	    //nestępnie usuwanie tego obszaru zainteresowania
    
             return View("Main");
         }
