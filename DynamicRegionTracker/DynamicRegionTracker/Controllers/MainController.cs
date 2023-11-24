@@ -431,12 +431,14 @@ namespace DynamicRegionTracker.Controllers
             var rectangle = JsonSerializer.Deserialize<Rectangle>(bountingBoxAndName.GetProperty("rectangle"));
             var whichImage = JsonSerializer.Deserialize<int>(bountingBoxAndName.GetProperty("whichImage"));
 
-            string result = null; //oryginalnie było tu wyszukiwannie obszaru zainteresowania po nazwie i zmienna result była innego typu, którego nie mogę ujawnić //dataStore._objects.Where(x => x.Name == name).FirstOrDefault();// nazwy muszą być unikatowe
+            string result = null; //oryginalnie było tu wyszukiwannie obszaru zainteresowania po nazwie i zmienna result była innego typu, którego nie mogę ujawnić. Nazwy muszą być unikatowe.
             if (result != null)
             {
                 rectangle = ValidateRectangle(rectangle);
                 rectangle = ScaleToOriginal(rectangle);
                 dataStore._frameIterator = whichImage;
+
+		//tu była wykonywana stosowna funkcja na zmiennej result
 
                 dataStore.results = new Dictionary<string, List<Rectangle>>();
             }
@@ -449,12 +451,12 @@ namespace DynamicRegionTracker.Controllers
             var name = JsonSerializer.Deserialize<string>(newTemplate.GetProperty("nameOfObject"));
             var template = JsonSerializer.Deserialize<Rectangle>(newTemplate.GetProperty("template"));
 
-            string result = null;//oryginalnie było tu wyszukiwannie obszaru zainteresowania po nazwie i zmienna result była innego typu, którego nie mogę ujawnić //dataStore._objects.Where(x => x.Name == name).FirstOrDefault();
+            string result = null;//oryginalnie było tu wyszukiwannie obszaru zainteresowania po nazwie i zmienna result była innego typu, którego nie mogę ujawnić
             if (result != null)
             {
                 template = ScaleToOriginal(template);
                 template = ValidateRectangle(template);
-                //result.Templates.Add(new Mat(dataStore._currentFrame, template));
+                //tu była wykonywana stosowna funkcja na zmiennej result
             }
                 
             return View("Main");
