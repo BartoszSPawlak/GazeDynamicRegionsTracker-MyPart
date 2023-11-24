@@ -100,7 +100,7 @@ namespace DynamicRegionTracker.Controllers
 
         private void _view_Open(string path)
         {
-            
+            //zamiana pierwszej kladki filmu na zmienną typu Mat
         }
 
         private Rectangle ScaleToOriginal(Rectangle rectangle)
