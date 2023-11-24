@@ -103,30 +103,6 @@ namespace DynamicRegionTracker.Controllers
             //zamiana pierwszej kladki filmu na zmienną typu Mat
         }
 
-        private Rectangle ScaleToOriginal(Rectangle rectangle)
-        {
-            float scaleX = (float)dataStore.widthOfImage / (float)900;
-            float scaleY = (float)dataStore.heightOfImage / (float)500;
-
-            rectangle.X = (int)(scaleX * rectangle.X);
-            rectangle.Y = (int)(scaleY * rectangle.Y);
-            rectangle.Width = (int)(scaleX * rectangle.Width);
-            rectangle.Height = (int)(scaleY * rectangle.Height);
-
-            if (rectangle.Width < 0) { 
-                rectangle.X = rectangle.X + rectangle.Width;
-                if (rectangle.X < 0) { rectangle.X = 1; }
-                rectangle.Width = rectangle.Width * (-1); 
-            }
-            if (rectangle.Height < 0) { 
-                rectangle.Y = rectangle.Y + rectangle.Height;
-                if (rectangle.Y < 0) { rectangle.Y = 1; }
-                rectangle.Height = rectangle.Height * (-1); 
-            }
-
-            return rectangle;
-        }
-
         public long CurrentFrame { get; set; }
 
         [HttpPost]
@@ -157,10 +133,7 @@ namespace DynamicRegionTracker.Controllers
 
         private void _view_AddObject(Rectangle rectangle, long frame, string settings, string name, string nameOfAlgorithm, int indexOfBoundingBox)
         {
-            rectangleForAlgorithm = ScaleToOriginal(rectangle);
-            ValidateRectangle(rectangleForAlgorithm);
-            var s = new Mat(dataStore._currentFrame,
-                rectangleForAlgorithm);
+            ValidateRectangle(rectangle);
 
             //tworzenie obiektu pozwalającego śledzić zaznaczony elemeny na ekranie i inicjalizowanie go
         }
